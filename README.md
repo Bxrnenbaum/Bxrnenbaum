@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+stabilste person i know: [@jonas-bonas](https://github.com/jonas-bonas/)
+
 <!--
 **Bxrnenbaum/Bxrnenbaum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
